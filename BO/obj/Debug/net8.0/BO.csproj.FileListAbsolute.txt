@@ -1,0 +1,11 @@
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\bin\Debug\net8.0\BO.deps.json
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\bin\Debug\net8.0\BO.dll
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\bin\Debug\net8.0\BO.pdb
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net8.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net8.0\BO.AssemblyInfoInputs.cache
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net8.0\BO.AssemblyInfo.cs
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net8.0\BO.csproj.CoreCompileInputs.cache
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net8.0\BO.dll
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net8.0\refint\BO.dll
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net8.0\BO.pdb
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net8.0\ref\BO.dll

@@ -1,0 +1,16 @@
+﻿@using BO
+@model BO.Pizza
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+</div>
+<partial name="_informations"></partial>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id= Model.Id }) |
+    <a asp-action="Index">Back to List</a>
+</div>

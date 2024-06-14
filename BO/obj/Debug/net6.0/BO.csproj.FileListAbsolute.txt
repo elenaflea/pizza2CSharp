@@ -1,0 +1,93 @@
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\bin\Debug\net6.0\BO.deps.json
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\bin\Debug\net6.0\BO.dll
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\bin\Debug\net6.0\BO.pdb
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\obj\Debug\net6.0\BO.csproj.AssemblyReference.cache
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\obj\Debug\net6.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\obj\Debug\net6.0\BO.AssemblyInfoInputs.cache
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\obj\Debug\net6.0\BO.AssemblyInfo.cs
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\obj\Debug\net6.0\BO.csproj.CoreCompileInputs.cache
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\obj\Debug\net6.0\BO.dll
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\obj\Debug\net6.0\refint\BO.dll
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\obj\Debug\net6.0\BO.pdb
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TPPizza\BO\obj\Debug\net6.0\ref\BO.dll
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\bin\Debug\net6.0\BO.deps.json
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\bin\Debug\net6.0\BO.dll
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\bin\Debug\net6.0\BO.pdb
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\obj\Debug\net6.0\BO.csproj.AssemblyReference.cache
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\obj\Debug\net6.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\obj\Debug\net6.0\BO.AssemblyInfoInputs.cache
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\obj\Debug\net6.0\BO.AssemblyInfo.cs
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\obj\Debug\net6.0\BO.csproj.CoreCompileInputs.cache
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\obj\Debug\net6.0\BO.dll
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\obj\Debug\net6.0\refint\BO.dll
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\obj\Debug\net6.0\BO.pdb
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module5\TP2\TPPizza\BO\obj\Debug\net6.0\ref\BO.dll
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.deps.json
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.dll
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.pdb
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.csproj.AssemblyReference.cache
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfoInputs.cache
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfo.cs
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.csproj.CoreCompileInputs.cache
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.dll
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\refint\BO.dll
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.pdb
+C:\Users\hboisgontier\Documents\Hervé\Cours\22-ASP.Net\2022\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\ref\BO.dll
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.deps.json
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.dll
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.pdb
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.csproj.AssemblyReference.cache
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfoInputs.cache
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfo.cs
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.csproj.CoreCompileInputs.cache
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.dll
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\refint\BO.dll
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.pdb
+E:\test\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\ref\BO.dll
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.deps.json
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.dll
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.pdb
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.csproj.AssemblyReference.cache
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfoInputs.cache
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfo.cs
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.csproj.CoreCompileInputs.cache
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.dll
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\refint\BO.dll
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.pdb
+D:\SynologyDrive\01-personnel\Vie professionnelle\Octopus\Formation\Eni\cours C#\251 - Développement Web côté serveur en ASP.Net Core\TP\Module 5\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\ref\BO.dll
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.deps.json
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.dll
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TPPizza (Solution)\BO\bin\Debug\net6.0\BO.pdb
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfoInputs.cache
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfo.cs
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.csproj.CoreCompileInputs.cache
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.dll
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\refint\BO.dll
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\BO.pdb
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TPPizza (Solution)\BO\obj\Debug\net6.0\ref\BO.dll
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TP-3-Pizza (Solution)\BO\bin\Debug\net6.0\BO.deps.json
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TP-3-Pizza (Solution)\BO\bin\Debug\net6.0\BO.dll
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TP-3-Pizza (Solution)\BO\bin\Debug\net6.0\BO.pdb
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfoInputs.cache
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfo.cs
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.csproj.CoreCompileInputs.cache
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.dll
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\refint\BO.dll
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.pdb
+E:\Modules\Module 05 - ASP.NET Razor\TPs\TP3\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\ref\BO.dll
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\bin\Debug\net6.0\BO.deps.json
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\bin\Debug\net6.0\BO.dll
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\bin\Debug\net6.0\BO.pdb
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfoInputs.cache
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.AssemblyInfo.cs
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.csproj.CoreCompileInputs.cache
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.dll
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\refint\BO.dll
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\BO.pdb
+C:\Users\egrondin2022\source\repos\TP-3-Pizza (Solution)\BO\obj\Debug\net6.0\ref\BO.dll
